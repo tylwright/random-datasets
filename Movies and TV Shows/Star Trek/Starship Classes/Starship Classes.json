@@ -1,0 +1,325 @@
+{
+    "operator": {
+        "Federation": [
+            {
+                "name": "Akira",
+                "type": ""
+            },
+            {
+                "name": "Ambassador",
+                "type": "Heavy Cruiser"
+            },
+            {
+                "name": "Angelou",
+                "type": ""
+            },
+            {
+                "name": "Antares",
+                "type": ""
+            },
+            {
+                "name": "Apollo",
+                "type": ""
+            },
+            {
+                "name": "Armstrong",
+                "type": ""
+            },
+            {
+                "name": "Bradbury",
+                "type": ""
+            },
+            {
+                "name": "Cardenas",
+                "type": ""
+            },
+            {
+                "name": "California",
+                "type": "Support"
+            },
+            {
+                "name": "Centaur",
+                "type": "Destroyer"
+            },
+            {
+                "name": "Challenger",
+                "type": ""
+            },
+            {
+                "name": "Cheyenne",
+                "type": ""
+            },
+            {
+                "name": "Constellation",
+                "type": ""
+            },
+            {
+                "name": "Constitution",
+                "type": ""
+            },
+            {
+                "name": "Courage",
+                "type": ""
+            },
+            {
+                "name": "Crossfield",
+                "type": ""
+            },
+            {
+                "name": "Curiosity",
+                "type": "Heavy Cruiser"
+            },
+            {
+                "name": "Curry",
+                "type": ""
+            },
+            {
+                "name": "Daedalus",
+                "type": ""
+            },
+            {
+                "name": "Danube",
+                "type": "Runabout"
+            },
+            {
+                "name": "Dauntless",
+                "type": ""
+            },
+            {
+                "name": "Defiant",
+                "type": [
+                    "Escort",
+                    "Warship"
+                ]
+            },
+            {
+                "name": "Dreadnought",
+                "type": ""
+            },
+            {
+                "name": "Eisenberg",
+                "type": ""
+            },
+            {
+                "name": "Engle",
+                "type": ""
+            },
+            {
+                "name": "Erewon",
+                "type": "Transport"
+            },
+            {
+                "name": "Excelsior",
+                "type": ""
+            },
+            {
+                "name": "Federation",
+                "type": "Dreadnought"
+            },
+            {
+                "name": "Freedom",
+                "type": ""
+            },
+            {
+                "name": "Friendship",
+                "type": ""
+            },
+            {
+                "name": "Galaxy",
+                "type": "Explorer"
+            },
+            {
+                "name": "Gagarin",
+                "type": ""
+            },
+            {
+                "name": "Hermes",
+                "type": "Scout"
+            },
+            {
+                "name": "Hoover",
+                "type": ""
+            },
+            {
+                "name": "Inquiry",
+                "type": "Heavy Cruiser"
+            },
+            {
+                "name": "Intrepid",
+                "type": ""
+            },
+            {
+                "name": "Korolev",
+                "type": ""
+            },
+            {
+                "name": "Lancelot",
+                "type": "Cruiser"
+            },
+            {
+                "name": "Luna",
+                "type": ""
+            },
+            {
+                "name": "Magee",
+                "type": ""
+            },
+            {
+                "name": "Malachowski",
+                "type": ""
+            },
+            {
+                "name": "Mars",
+                "type": ""
+            },
+            {
+                "name": "Merced",
+                "type": ""
+            },
+            {
+                "name": "Merian",
+                "type": ""
+            },
+            {
+                "name": "Miranda",
+                "type": [
+                    "Science",
+                    "Supply"
+                ]
+            },
+            {
+                "name": "Nebula",
+                "type": ""
+            },
+            {
+                "name": "New Orleans",
+                "type": "Frigate"
+            },
+            {
+                "name": "Niagara",
+                "type": ""
+            },
+            {
+                "name": "Nova",
+                "type": ""
+            },
+            {
+                "name": "Obena",
+                "type": ""
+            },
+            {
+                "name": "Oberth",
+                "type": [
+                    "Scout",
+                    "Science",
+                    "Supply",
+                    "Transport"
+                ]
+            },
+            {
+                "name": "Olympic",
+                "type": ""
+            },
+            {
+                "name": "Parliament",
+                "type": ""
+            },
+            {
+                "name": "Peregrine",
+                "type": ""
+            },
+            {
+                "name": "Prometheus",
+                "type": ""
+            },
+            {
+                "name": "Ptolemy",
+                "type": "Transport"
+            },
+            {
+                "name": "Radiant",
+                "type": ""
+            },
+            {
+                "name": "Renaissance",
+                "type": ""
+            },
+            {
+                "name": "Reliant",
+                "type": ""
+            },
+            {
+                "name": "Ross",
+                "type": ""
+            },
+            {
+                "name": "Saber",
+                "type": ""
+            },
+            {
+                "name": "Sagon",
+                "type": ""
+            },
+            {
+                "name": "Saladin",
+                "type": ""
+            },
+            {
+                "name": "Shepard",
+                "type": ""
+            },
+            {
+                "name": "Sombra",
+                "type": ""
+            },
+            {
+                "name": "Sovereign",
+                "type": ""
+            },
+            {
+                "name": "Soyuz",
+                "type": ""
+            },
+            {
+                "name": "Springfield",
+                "type": ""
+            },
+            {
+                "name": "Steamrunner",
+                "type": ""
+            },
+            {
+                "name": "Sutherland",
+                "type": ""
+            },
+            {
+                "name": "Sydney",
+                "type": "Transport"
+            },
+            {
+                "name": "Texas",
+                "type": "Automated"
+            },
+            {
+                "name": "Universe",
+                "type": ""
+            },
+            {
+                "name": "Walker",
+                "type": ""
+            },
+            {
+                "name": "Wallenberg",
+                "type": "Transport"
+            },
+            {
+                "name": "Wells",
+                "type": "Timeship"
+            },
+            {
+                "name": "Yellowstone",
+                "type": "Runabout"
+            }
+        ]
+    }
+}
